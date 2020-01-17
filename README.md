@@ -1,4 +1,4 @@
-# 20s_ma573
+# 20s-ma573
 Computational Finance
 
 - [notes](20s-readme.md)
