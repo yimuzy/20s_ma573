@@ -12,5 +12,7 @@
 - [implied volatility](src/20imp_vol_v01.ipynb)
 - [volatility smile](src/20vol_smile_v01.ipynb)
 - [python module/test](src/20bsm01_test.ipynb)
+--------------
+- [Final project guideline and References](src/20refs.md)
 ---
 - [Crude Monte Carlo: Estimating $\pi$](src/20mcpi01.pdf)
