@@ -7,8 +7,8 @@
 - [bsm greeks](src/20explicit_bsm_greeks.ipynb)
 - hw3 - [implied volatility -bsm](src/20iv_hw01.ipynb)
 - hw4 - [bsm calibration](src/20bsm_calibration_v01hw.ipynb)
-- hw5 - [MC for $\pi$](src/20mcpi01.pdf) Ex 1, 3, 4
-- hw5 - [MC for integral](src/20omc_integral_01.pdf) - Ex 2
+- hw5 - [MC for $\pi$](src/20mcpi01.pdf): Ex 1, 3, 4
+- hw5 - [MC for integral](src/20omc_integral_01.pdf): Ex 2
 
 
     
