@@ -1,6 +1,7 @@
 # 20spring
-
+---
 - [Syllabus](doc/20syl_v01.pdf)
+
 ---
 - [git+colab](src/20s_github.ipynb)
 - [python](src/20python_notebook.ipynb)
@@ -12,13 +13,17 @@
 - [implied volatility](src/20imp_vol_v01.ipynb)
 - [volatility smile](src/20vol_smile_v01.ipynb)
 - [python module/test](src/20bsm01_test.ipynb)
+
 --------------
 - [Final project guideline and References](src/20refs.md)
+
 ---
 - [Crude Monte Carlo: Estimation of $\pi$](src/20mcpi01.pdf)
 - [Definite Integral by MC](src/20omc_integral_01.pdf)
+
 ---
 - [Exact sampling of BM1d path](src/20bm1d.pdf)
 - [SDE in financial models](src/20sde.pdf)
+
 ----
 - [Importance sampling and inverse transorm](src/20is_it_integral.pdf)
