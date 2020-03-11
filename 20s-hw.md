@@ -11,6 +11,7 @@
 - hw5 - [MC for integral](src/20omc_integral_01.pdf): Ex 2
 - hw6 - [bm1d path simulation](src/20bm1d.pdf) - Ex 1,3
 - hw6 - [models](src/20sde.pdf) - Ex 1
+- hw7 - [CEV with Euler](src/20euler_sde_1d.pdf) - Ex 1.
     
 
 
