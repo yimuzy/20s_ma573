@@ -12,6 +12,7 @@
 - hw6 - [bm1d path simulation](src/20bm1d.pdf) - Ex 1,3
 - hw6 - [models](src/20sde.pdf) - Ex 1
 - hw7 - [CEV with Euler](src/20euler_sde_1d.pdf) - Ex 1.
+- hw8 - [CFD on BVP](src/20cfd_epde_hw.pdf)
     
 
 
