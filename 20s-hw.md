@@ -14,6 +14,10 @@
 - hw7 - [CEV with Euler](src/20euler_sde_1d.pdf) - Ex 1.
 - hw8 - [CFD on BVP](src/20cfd_epde_hw.pdf)
 - hw9 - [Value iteration on nd BVP](src/20cfd_ndbvp_hw.pdf)
+- hw10 - [Stochastic Approximation](src/20sa_hw.pdf)
+- hw10 - [MC/TD on nd BVP](src/20td_ndbvp_hw.pdf)
+    
+
     
 
 
