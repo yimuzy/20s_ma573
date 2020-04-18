@@ -16,6 +16,7 @@
 - hw9 - [Value iteration on nd BVP](src/20cfd_ndbvp_hw.pdf)
 - hw10 - [Stochastic Approximation](src/20sa_hw.pdf)
 - hw10 - [MC/TD on nd BVP](src/20td_ndbvp_hw.pdf)
+- hw11 - [Importance Sampling on Digital Put](src/20is_digital_put_hw.pdf)
     
 
     
